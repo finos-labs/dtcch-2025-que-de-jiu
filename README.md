@@ -3,14 +3,14 @@
 # FINOS DTCC Hackathon 
 
 
-## Project Name
+## Que De Jiu
 
 
 ### Project Details
 
 
 ### Team Information
-
+Xiaofeng Zhao, xiaofengzhao@gatech.edu
 
 ## Using DCO to sign your commits
 
