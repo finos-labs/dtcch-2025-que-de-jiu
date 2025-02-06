@@ -8,7 +8,7 @@
 
 ### Project Details
 #### 1. Indicators Introduction
-https://www.overleaf.com/read/jvxwdwgdjcgj#abc21a or the link
+https://www.overleaf.com/read/jvxwdwgdjcgj#abc21a or link
 [Indicators Introduction](./Documents/IndicatorsIntroduction.pdf)
 
 ### Team Information
