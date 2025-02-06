@@ -1,0 +1,48 @@
+Cumulative Return of Manual Strategy In-sample: 0.731100
+Standard Deviation of Manual Strategy In-sample: 0.010536
+Average Daily Return of Manual Strategy In-sample: 0.001145
+
+Cumulative Return of Manual Strategy Out-sample: 0.233000
+Standard Deviation of Manual Strategy Out-sample: 0.006964
+Average Daily Return of Manual Strategy Out-sample: 0.000441
+
+Cumulative Return of Strategy Learner In-sample: 2.277500
+Standard Deviation of Strategy Learner In-sample: 0.008667
+Average Daily Return of Strategy Learner In-sample: 0.002395
+
+Cumulative Return of Strategy Learner Out-sample: 0.328400
+Standard Deviation of Strategy Learner Out-sample: 0.007196
+Average Daily Return of Strategy Learner Out-sample: 0.000590
+
+Cumulative Return of Benchmark In-sample: 0.012300
+Standard Deviation of Benchmark In-sample: 0.017004
+Average Daily Return of Benchmark In-sample: 0.000168
+
+Cumulative Return of Benchmark Out-sample: -0.083400
+Standard Deviation of Benchmark Out-sample: 0.008481
+Average Daily Return of Benchmark Out-sample: -0.000137
+
+Cumulative Return of Manual Strategy In-sample: 0.731100
+Standard Deviation of Manual Strategy In-sample: 0.010536
+Average Daily Return of Manual Strategy In-sample: 0.001145
+
+Cumulative Return of Manual Strategy Out-sample: 0.233000
+Standard Deviation of Manual Strategy Out-sample: 0.006964
+Average Daily Return of Manual Strategy Out-sample: 0.000441
+
+Cumulative Return of Strategy Learner In-sample: 2.277500
+Standard Deviation of Strategy Learner In-sample: 0.008667
+Average Daily Return of Strategy Learner In-sample: 0.002395
+
+Cumulative Return of Strategy Learner Out-sample: 0.328400
+Standard Deviation of Strategy Learner Out-sample: 0.007196
+Average Daily Return of Strategy Learner Out-sample: 0.000590
+
+Cumulative Return of Benchmark In-sample: 0.012300
+Standard Deviation of Benchmark In-sample: 0.017004
+Average Daily Return of Benchmark In-sample: 0.000168
+
+Cumulative Return of Benchmark Out-sample: -0.083400
+Standard Deviation of Benchmark Out-sample: 0.008481
+Average Daily Return of Benchmark Out-sample: -0.000137
+
